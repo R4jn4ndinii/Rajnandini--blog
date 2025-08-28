@@ -1,4 +1,4 @@
-#Data as Art 🎨– Turning Boring Charts into Beautiful Storytelling Visuals.
+# Data as Art 🎨– Turning Boring Charts into Beautiful Storytelling Visuals.
 
 In today’s digital-first world, data is everywhere. Every app we use, every website we visit, every click we make generates some kind of data. From the number of steps you walk each day to the hours you spend watching videos online, data is constantly being collected. But most of the time, this data is displayed in boring tables, plain pie charts, or standard bar graphs. These visuals are informative but not engaging, and they often fail to capture attention or inspire action. Imagine sitting through a presentation filled with lifeless charts—you’d probably lose interest quickly. That’s why we need to start looking at data as art and treat it as a medium for storytelling.
 
